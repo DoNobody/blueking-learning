@@ -31,3 +31,6 @@
 [submodule "bamboo-engine"]
 	path = bamboo-engine
 	url = https://github.com/TencentBlueKing/bamboo-engine.git
+[submodule "blueking-paas"]
+	path = blueking-paas
+	url = https://github.com/TencentBlueKing/blueking-paas.git
