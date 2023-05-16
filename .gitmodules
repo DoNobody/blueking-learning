@@ -1,0 +1,33 @@
+[submodule "blueking-k8s-deploy"]
+	path = blueking-k8s-deploy
+	url = git@github.com:DoNobody/blueking-k8s-deploy.git
+[submodule "legacy-bk-paas"]
+	path = legacy-bk-paas
+	url = https://github.com/TencentBlueKing/legacy-bk-paas.git
+[submodule "bk-cmdb"]
+	path = bk-cmdb
+	url = https://github.com/TencentBlueKing/bk-cmdb.git
+[submodule "bk-job"]
+	path = bk-job
+	url = https://github.com/TencentBlueKing/bk-job.git
+[submodule "bk-sops"]
+	path = bk-sops
+	url = https://github.com/TencentBlueKing/bk-sops.git
+[submodule "bk-bcs"]
+	path = bk-bcs
+	url = https://github.com/TencentBlueKing/bk-bcs.git
+[submodule "bk-ci"]
+	path = bk-ci
+	url = https://github.com/TencentBlueKing/bk-ci.git
+[submodule "bk-user"]
+	path = bk-user
+	url = https://github.com/TencentBlueKing/bk-user.git
+[submodule "bk-iam-saas"]
+	path = bk-iam-saas
+	url = https://github.com/TencentBlueKing/bk-iam-saas.git
+[submodule "bk-iam"]
+	path = bk-iam
+	url = https://github.com/TencentBlueKing/bk-iam.git
+[submodule "bamboo-engine"]
+	path = bamboo-engine
+	url = https://github.com/TencentBlueKing/bamboo-engine.git
