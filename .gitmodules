@@ -34,3 +34,9 @@
 [submodule "blueking-paas"]
 	path = blueking-paas
 	url = https://github.com/TencentBlueKing/blueking-paas.git
+[submodule "paas3-demo"]
+	path = paas3-demo
+	url = git@github.com:DoNobody/paas3-demo.git
+[submodule "blueapps"]
+	path = blueapps
+	url = https://github.com/TencentBlueKing/blueapps.git
