@@ -40,3 +40,6 @@
 [submodule "blueapps"]
 	path = blueapps
 	url = https://github.com/TencentBlueKing/blueapps.git
+[submodule "bkpaas-python-sdk"]
+	path = bkpaas-python-sdk
+	url = https://github.com/TencentBlueKing/bkpaas-python-sdk.git
